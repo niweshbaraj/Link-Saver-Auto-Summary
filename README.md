@@ -23,7 +23,7 @@ A modern bookmark management application with AI-generated summaries, built with
 
 ### 1. Clone & Install
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/niweshbaraj/Link-Saver-Auto-Summary
 cd link-saver-auto-summary
 npm install
 ```
@@ -123,7 +123,6 @@ git push origin main
    - `NEXT_PUBLIC_SUPABASE_URL`: `your_supabase_project_url`
    - `NEXT_PUBLIC_SUPABASE_ANON_KEY`: `your_supabase_anon_key`
 4. Click **"Deploy"**
-5. In Supabase: Authentication → Settings → Add your Vercel domain to allowed origins
 
 ## 📂 Project Structure
 
