@@ -4,7 +4,7 @@ A modern bookmark management application with AI-generated summaries, built with
 
 ## 🔗 Links
 
-- **🚀 Live Demo**: [your-app-name.vercel.app](https://your-app-name.vercel.app)
+- **🚀 Live Demo**: [https://link-saver-auto-summary-alpha.vercel.app/](https://link-saver-auto-summary-alpha.vercel.app/)
 - **📂 GitHub Repository**: [github.com/niweshbaraj/Link-Saver-Auto-Summary](https://github.com/niweshbaraj/Link-Saver-Auto-Summary)
 
 ![Dashboard](screenshots/dashboard-with-bookmarks-plus-drag-drop.png)
